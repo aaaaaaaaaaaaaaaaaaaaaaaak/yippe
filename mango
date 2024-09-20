@@ -1,0 +1,42 @@
+{
+	"Connectable": false,
+	"ConnectionState": "NotConnected",
+	"ErrorState": "out-of-range",
+	"GUID": "48aaf3b2-e330-41ba-9128-1291b4adf516",
+	"IPAddressConfigType": "DHCP",
+	"Metered": false,
+	"Name": "house 1 5G",
+	"NameServersConfigType": "DHCP",
+	"Priority": 0,
+	"Source": "User",
+	"TrafficCounterResetTime": 0,
+	"Type": "WiFi",
+	"WiFi": {
+		"AllowGatewayARPPolling": true,
+		"AutoConnect": true,
+		"BSSID": "",
+		"BSSIDAllowlist": [],
+		"BSSIDRequested": "",
+		"EAP": {
+			"AnonymousIdentity": "",
+			"DomainSuffixMatch": [],
+			"Identity": "",
+			"SaveCredentials": true,
+			"SubjectAlternativeNameMatch": [],
+			"SubjectMatch": "",
+			"TLSVersionMax": "",
+			"UseProactiveKeyCaching": false,
+			"UseSystemCAs": true
+		},
+		"Frequency": 0,
+		"FrequencyList": [],
+		"HexSSID": "686F7573652031203547",
+		"HiddenSSID": false,
+		"PasspointId": "",
+		"PasspointMatchType": "",
+		"SSID": "house 1 5G",
+		"Security": "WPA-PSK",
+		"SignalStrength": 0,
+		"SignalStrengthRssi": -32768
+	}
+}
